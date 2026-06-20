@@ -52,9 +52,7 @@ PCA-Proyecto/
 ├── datos.py
 ├── pca_manual.py
 ├── interfaz.py
-├── visualizacion.py
-├── analisis.py
-└── readme.md
+└── README.md
 ```
 
 | Archivo | Función |
@@ -63,8 +61,6 @@ PCA-Proyecto/
 | `datos.py` | Carga el dataset Iris desde Scikit-Learn y entrega datos, clases y nombres de variables. |
 | `pca_manual.py` | Contiene la implementación matemática del PCA usando NumPy. |
 | `interfaz.py` | Construye la interfaz Tkinter, muestra estadísticas, matrices, interpretación y gráficos. |
-| `visualizacion.py` | Funciones auxiliares para generar gráficos con Matplotlib. |
-| `analisis.py` | Funciones auxiliares para mostrar estadísticas descriptivas por consola. |
 
 ## Ejecución
 
